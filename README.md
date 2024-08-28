@@ -5,7 +5,7 @@ const luissalinasglz = {
     name: "Luis Antonio Salinas Gonzalez",
     pronouns: "He" | "Him",
     career: "B.S. in Computer Science and Technology",
-    code: ["C++", "Python", "Java"],
+    code: ["C++", "Python", "Matlab", "Java"],
     askMeAbout: ["cibersecurity", "software development", "gaming"],
     currentFocus: "Learning new technologies",
 };
