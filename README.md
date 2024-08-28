@@ -2,7 +2,7 @@
 ## Hey!!!
 ```javascript
 const luissalinasglz = {
-    name: "Luis Antonio Salinas Gonzalez"
+    name: "Luis Antonio Salinas Gonzalez",
     pronouns: "He" | "Him",
     career: "B.S. in Computer Science and Technology",
     code: ["C++", "Python", "Java"],
