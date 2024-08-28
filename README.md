@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**luissalinasglz/luissalinasglz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![pngtree-wildlife-landscape-mountains-and-lake-for-web-banner-header-image_15713986.jpg](https://i.postimg.cc/nc0G2k1Q/pngtree-wildlife-landscape-mountains-and-lake-for-web-banner-header-image-15713986.jpg)](https://postimg.cc/56QzN8Tx)
+## Hey!!!
+```javascript
+const luissalinasglz = {
+    name: "Luis Antonio Salinas Gonzalez"
+    pronouns: "He" | "Him",
+    career: "B.S. in Computer Science and Technology",
+    code: ["C++", "Python", "Java"],
+    askMeAbout: ["cibersecurity", "software development", "gaming"],
+    currentFocus: "Learning new technologies",
+};
+```
