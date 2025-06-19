@@ -32,8 +32,8 @@ class luissalinasglz {
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"/></code>&nbsp;&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"/></code>&nbsp;&nbsp;
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/648px-Tux.svg.png" height="45" alt="linux"/></code>&nbsp;&nbsp;
-<code><img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="45" alt="ubuntu logo"/></code>&nbsp;&nbsp;
+<code><img src="https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png?f=webp" height="45" alt="ubuntu"/></code>&nbsp;&nbsp;
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="45" alt="matlab"/></code>&nbsp;&nbsp;
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png](https://raw.githubusercontent.com/github/explore/9a726b18911e4f631a91054933e7b0c2c66af964/topics/elixir/elixir.png" height="45" alt="matlab"/></code>&nbsp;&nbsp;
+<code><img src="https://raw.githubusercontent.com/github/explore/9a726b18911e4f631a91054933e7b0c2c66af964/topics/elixir/elixir.png" height="45" alt="elixir"/></code>&nbsp;&nbsp;
 
 </div>
